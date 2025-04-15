@@ -1,8 +1,8 @@
-## Hi there! i'm lintang 👋
+# Hi there! i'm lintang 👋
 
 
 
-# Hi there! I'm learning to code! 👩‍💻🐣  
+## Hi there! I'm learning to code! 👩‍💻🐣  
 Still figuring out why my code breaks — but we keep trying!
 
 - Majoring in Information Systems  
@@ -12,6 +12,14 @@ Still figuring out why my code breaks — but we keep trying!
 
 ![Status](https://img.shields.io/badge/Learning-Everyday-blueviolet?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-❤️-yellow?style=flat-square)
+
+
+
+## My Progress 🏃‍♀️
+
+Python: 🐍🐍🐍🐍🐍🐍⬜⬜⬜⬜⬜  
+Networking: 🌐🌐🌐🌐🌐⬜⬜⬜⬜⬜  
+AI: 🤖🤖⬜⬜⬜⬜⬜⬜⬜⬜
 
 
 
